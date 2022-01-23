@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-JSPS Research Fellow for Young Scientists (PD)
-Graduate School of Mathematics
-Nagoya University,
-Chikusa-ku, Nagoya, 464-8602 Japan
+JSPS Research Fellow for Young Scientists (PD)<br />
+Graduate School of Mathematics<br />
+Nagoya University,<br />
+Chikusa-ku, Nagoya, 464-8602 Japan<br />
 
 E-mail: m17009g[at]math.nagoya-u.ac.jp
 
