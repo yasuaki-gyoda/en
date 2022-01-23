@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasuaki gyoda"
+title                    : "Yasuaki Gyoda"
 title_separator          : "-"
 name                     : &name "Yasuaki Gyoda"
 description              : &description "Postdoc at Nagoya Univ."
