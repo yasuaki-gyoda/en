@@ -27,7 +27,7 @@ redirect_from:
   * Graduate School of Mathematics, Nagoya University
   * Supervisor: Tomoki Nakanishi
 - Apr. 2013 – Mar. 2017: Undergraduate student
-  * Graduate School of Mathematics, Nagoya Universit
+  * Graduate School of Mathematics, Nagoya University
   * Supervisor: Takahiro Hayashi
   
 <b>Awards</b>
