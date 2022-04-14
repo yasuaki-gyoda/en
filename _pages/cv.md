@@ -28,7 +28,7 @@ redirect_from:
   * Supervisor: Tomoki Nakanishi
 - Apr. 2013 – Mar. 2017: Undergraduate student
   * Graduate School of Mathematics, Nagoya Universit
-  * Supervisor: Tomoki Nakanishi
+  * Supervisor: Takahiro Hayashi
   
 <b>Awards</b>
 - Mar. 25th, 2019: Master’s Thesis Award, Graduate School of Mathematics, Nagoya University
