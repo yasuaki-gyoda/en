@@ -38,7 +38,7 @@ Graduate School of Mathematics & Alumni Association of the Graduate School of Ma
   * Title: 団代数におけるF行列（F-matrices in cluster algebras）(Japanese)
 
 <b>Membership</b>
-Member of the Mathematical Society of Japan
+- Member of the Mathematical Society of Japan
 
  
 <b>Conference Organization</b>
