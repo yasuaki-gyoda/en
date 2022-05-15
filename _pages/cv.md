@@ -12,9 +12,10 @@ redirect_from:
 
 
 <b>Work Experience</b>
-- Oct. 2021 – Present: Part-time teacher
+- Apr.2022 – Present: JSPS Research Fellow for Young Scientists (PD)
+- Oct. 2021 – Mar.2022: Part-time teacher
   * National Institute of Technology, Toyota College
-- Apr. 2021 – Present: JSPS Research Fellow for Young Scientists (PD)
+- Apr. 2021 – Mar.2022: JSPS Research Fellow for Young Scientists (PD)
 - Apr. 2020 – Mar. 2021: JSPS Research Fellow for Young Scientists (DC2)
 - Apr. 2019 – Mar. 2020: Research Assistant (RA)
   * Graduate School of Mathematics, Nagoya University
@@ -41,5 +42,7 @@ Member of the Mathematical Society of Japan
 
  
 <b>Conference Organization</b>
+- May, 2022 – Present: Tokyo–Nagoya Algebra Seminar
+  *  with Noriyuki Abe, Aaron Chan, Erik Darpö, Osamu Iyama, Hiroyuki Nakaoka, Ryo Takahashi
 - Feb. 7-11th, 2020: Mathsci Freshman Seminar 2020
   *  with Hiroshi Ishimoto, Keita Goto, Densuke Shiraishi, Taro Sogabe, JuAe Song, Taiki Takatsu, Shogo Fujiwara, Akiko Yazawa, and Koji Yamazaki
