@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yasuaki Gyoda"
   avatar           : "chikugogawamarathon-e1577374502207-300x279.jpg"
-  bio              : "Postdoc at Nagoya Univ."
-  location         : "Nagoya, Japan"
+  bio              : "Postdoc at The University of Tokyo"
+  location         : "Tokyo, Japan"
   employer         : "JSPS Fellow (PD)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A5Ue3sYAAAAJ&hl=ja&oi=ao"
-  email            : "m17009g@math.nagoya-u.ac.jp"
+  email            : "gyoda-yasuaki@g.ecc.u-tokyo.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
