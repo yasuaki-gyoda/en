@@ -13,7 +13,7 @@ redirect_from:
 
 <b>Work Experience</b>
 - Apr. 2023 – Present: Part-time assistant
-  * Aoyama Gakuin University, College of Science and Engineering Department of Mathematical Sciences
+  * Aoyama Gakuin University, College of Science and Engineering, Department of Mathematical Sciences
 - Apr. 2022 – Present: JSPS Research Fellow for Young Scientists (PD)
 - Oct. 2021 – Mar.2022: Part-time teacher
   * National Institute of Technology, Toyota College
