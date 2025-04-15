@@ -14,9 +14,9 @@ Designed assistant professor (YLC)<br />
 Institute for Advanced Research / Graduate School of Mathematics<br />
 Nagoya University<br />
 
-E-mail: yasuakigyoda@gmail.com (Personal address, my emails are sent from this email address) 
-        ygyoda@math.nagoya-u.ac.jp (Official address of the Graduate School)
-        gyoda-yasuaki[at]g.ecc.u-tokyo.ac.jp (Previous affiliation email address, available until September 28, 2025)
+E-mail: yasuakigyoda@gmail.com (Personal address, my emails are sent from this email address) <br />
+        ygyoda@math.nagoya-u.ac.jp (Official address of the Graduate School)<br />
+        gyoda-yasuaki[at]g.ecc.u-tokyo.ac.jp (Previous affiliation email address, available until September 28, 2025)<br />
 
 Interests: cluster algebras and their applications.
 
