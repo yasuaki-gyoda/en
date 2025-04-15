@@ -15,9 +15,9 @@ Institute for Advanced Research / Graduate School of Mathematics<br />
 Nagoya University<br />
 
 E-mail: <br />
-yasuakigyoda[at]gmail.com (Personal address, my emails are sent from this email address) <br />
-ygyoda[at]math.nagoya-u.ac.jp (Official address of the Graduate School)<br />
-gyoda-yasuaki[at]g.ecc.u-tokyo.ac.jp (Previous affiliation email address, available until September 28, 2025)<br />
+yasuakigyoda[at]gmail.com (Personal email address, my emails are sent from this address) <br />
+ygyoda[at]math.nagoya-u.ac.jp (affiliation email address)<br />
+gyoda-yasuaki[at]g.ecc.u-tokyo.ac.jp (ex-affiliation email address, available until September 28, 2025)<br />
 
 Interests: cluster algebras and their applications.
 
