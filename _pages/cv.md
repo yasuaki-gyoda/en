@@ -12,12 +12,14 @@ redirect_from:
 
 
 <b>Work Experience</b>
-- Apr. 2023 – Present: Part-time assistant
-  * Aoyama Gakuin University, College of Science and Engineering, Department of Mathematical Sciences
-- Apr. 2022 – Present: JSPS Research Fellow for Young Scientists (PD)
-- Oct. 2021 – Mar.2022: Part-time teacher
+- Apr. 2025 - present : Designed assistant professor (YLC)
+  *  Institute for Advanced Research / Graduate School of Mathematics, Nagoya University,
+- Apr. 2023 – Mar. 2025: Part-time assistant
+  *  College of Science and Engineering, Department of Mathematical Sciences, Aoyama Gakuin University,
+- Apr. 2022 – Mar. 2025: JSPS Research Fellow for Young Scientists (PD)
+- Oct. 2021 – Mar. 2022: Part-time teacher
   * National Institute of Technology, Toyota College
-- Apr. 2021 – Mar.2022: JSPS Research Fellow for Young Scientists (PD)
+- Apr. 2021 – Mar. 2022: JSPS Research Fellow for Young Scientists (PD)
 - Apr. 2020 – Mar. 2021: JSPS Research Fellow for Young Scientists (DC2)
 - Apr. 2019 – Mar. 2020: Research Assistant (RA)
   * Graduate School of Mathematics, Nagoya University
