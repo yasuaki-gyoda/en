@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yasuaki Gyoda's Homepage has been moved<br />
+Yasuaki Gyoda's website has been moved<br />
 from https://yasuaki-gyoda.sakura.ne.jp/wp/ to here.<br />
 <br />
 Designed assistant professor (YLC)<br />
