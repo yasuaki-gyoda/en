@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yasuaki Gyoda"
 title_separator          : "-"
 name                     : &name "Yasuaki Gyoda"
-description              : &description "Designed assistant professor at the Nagoya University"
+description              : &description "Designated assistant professor at the Nagoya University"
 url                      : https://yasuaki-gyoda.github.io/en # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yasuaki-gyoda.github.io/en"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yasuaki Gyoda"
   avatar           : "chikugogawamarathon-e1577374502207-300x279.jpg"
-  bio              : "Institute for Advenced Reseaches / Graduate School of Mathematics, Nagoya University"
+  bio              : "Institute for Advanced Researches / Graduate School of Mathematics, Nagoya University"
   location         : "Nagoya, Japan"
   employer         : "Designed assistant professor (YLC)"
   pubmed           : 
