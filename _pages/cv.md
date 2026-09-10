@@ -12,7 +12,7 @@ redirect_from:
 
 
 <b>Work Experience</b>
-- Apr. 2025 - present : Designed assistant professor (YLC)
+- Apr. 2025 - present : Designated assistant professor (YLC)
   *  Institute for Advanced Research / Graduate School of Mathematics, Nagoya University
 - Apr. 2023 – Mar. 2025: Part-time assistant
   *  College of Science and Engineering, Department of Mathematical Sciences, Aoyama Gakuin University
